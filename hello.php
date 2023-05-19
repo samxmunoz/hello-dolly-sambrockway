@@ -4,44 +4,19 @@
  * @version 1.6
  */
 /*
-Plugin Name: Hello Dolly
+Plugin Name: Hello Dolly - Led Zepplin Version // Sam Brockway
 Plugin URI: http://wordpress.org/extend/plugins/hello-dolly/
-Description: This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
-Author: Matt Mullenweg
+Description: This is a part of the Day 10 challenge for #WP20 - changing Hello Dolly's lyrics.
 Version: 1.6
-Author URI: http://ma.tt/
+Author URI: https://hellosambrockway.com
 */
 
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
-	$lyrics = "Hello, Dolly
-Well, hello, Dolly
-It's so nice to have you back where you belong
-You're lookin' swell, Dolly
-I can tell, Dolly
-You're still glowin', you're still crowin'
-You're still goin' strong
-We feel the room swayin'
-While the band's playin'
-One of your old favourite songs from way back when
-So, take her wrap, fellas
-Find her an empty lap, fellas
-Dolly'll never go away again
-Hello, Dolly
-Well, hello, Dolly
-It's so nice to have you back where you belong
-You're lookin' swell, Dolly
-I can tell, Dolly
-You're still glowin', you're still crowin'
-You're still goin' strong
-We feel the room swayin'
-While the band's playin'
-One of your old favourite songs from way back when
-Golly, gee, fellas
-Find her a vacant knee, fellas
-Dolly'll never go away
-Dolly'll never go away
-Dolly'll never go away again";
+	$lyrics = "Made up my mind to make a new start
+Going to California with an aching in my heart
+Someone told me there's a girl out there
+With love in her eyes and flowers in her hair";
 
 	// Here we split it into lines
 	$lyrics = explode( "\n", $lyrics );
@@ -69,7 +44,7 @@ function dolly_css() {
 	#dolly {
 		float: $x;
 		padding-$x: 15px;
-		padding-top: 5px;		
+		padding-top: 5px;
 		margin: 0;
 		font-size: 11px;
 	}
