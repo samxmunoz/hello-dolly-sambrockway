@@ -1,11 +1,11 @@
-=== Hello Dolly ===
-Contributors: matt
+=== Hello Dolly - Led Zeppelin Version // Sam Brockway ===
+Contributors: Sam Brockway (FKA Munoz)
 Requires at least: 3.0
 Stable tag: 1.6
 Tested up to: 4.1
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong.
+This is a part of the Day 10 challenge for #WP20 - changing Hello Dolly's lyrics. Led Zeppelin is one of my favorites.
 
 == Description ==
 
-This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly</cite> in the upper right of your admin screen on every page.
+This is a part of the Day 10 challenge for #WP20 - changing Hello Dolly's lyrics. Led Zeppelin is one of my favorites.

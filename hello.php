@@ -4,7 +4,7 @@
  * @version 1.6
  */
 /*
-Plugin Name: Hello Dolly - Led Zepplin Version // Sam Brockway
+Plugin Name: Hello Dolly - Led Zeppelin Version // Sam Brockway
 Plugin URI: http://wordpress.org/extend/plugins/hello-dolly/
 Description: This is a part of the Day 10 challenge for #WP20 - changing Hello Dolly's lyrics.
 Version: 1.6
